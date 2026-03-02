@@ -1,7 +1,7 @@
 [project]
-name = "HackathonStarter"
+name = "mouse-maze-position-from-brain-signals"
 version = "0.1.0"
-description = "Starter template for HacktionPotential - Brain in Real Time"
+description = "Mouse maze position decoding from brain signals"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
