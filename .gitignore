@@ -1,0 +1,7 @@
+dataset/
+.venv/
+.DS_Store
+.ipynb_checkpoints/
+slurm_logs/
+weights/
+__pycache__/
